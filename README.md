@@ -32,7 +32,7 @@ sesudah itu gunakan ```docker compose -f docker-compose.yml up -d```
 
 
 ## Documentation mengenai MS SQL Server
-``` https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16 ```
+https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16
 
 
 ## Cara Membuat Koneksi 
@@ -61,10 +61,12 @@ SqlCommand cmd = new SqlCommand("update  dbo.Test set Nama=@Nama,Kelas=@Kelas wh
             cmd.ExecuteNonQuery();
 ```
 
+## Link Youtube Demo Aplikasi
+https://www.youtube.com/watch?v=4zRbukyiXNY
 
 ## Link Youtube mengenai Penjelasan Panjang dari MS SQL SERVER dari Kelompok kami
-``` https://www.youtube.com/watch?v=cjpPSjyMe18 ```
+ https://www.youtube.com/watch?v=cjpPSjyMe18
 
 
 ## Link Youtube referensi kami
-``` https://www.youtube.com/watch?v=lo80Q8C0nXk ```
+https://www.youtube.com/watch?v=lo80Q8C0nXk
