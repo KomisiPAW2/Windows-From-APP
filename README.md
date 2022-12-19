@@ -1,6 +1,6 @@
 # Windows-From-APP
 
-##This app make with C# (C sharp)
+## This app make with C# (C sharp)
 
 
 ## Gambar Aplikasi
@@ -8,9 +8,10 @@
 
 
 ## cara menggunakan
-!!! pastikan sebelum menggunakan aplikasi koneksikan Database mssql anda kedalam code dengan nama From1.cs
+!pastikan sebelum menggunakan aplikasi koneksikan Database mssql anda kedalam code dengan nama From1.cs\
+'''
 *lalu anda bisa run via Debugging Visual Studio atau bisa klik execute file di directory Crud_APP\Crud_APP\bin\Debug\netcoreapp3.1\Crud_APP.exe
-
+'''
 
 ## install mssql via docker with docker-compose.yml 
 ```
